@@ -1,0 +1,18 @@
+{
+  "template": "https://github.com/woltapp/wolt-python-package-cookiecutter",
+  "commit": "6669a067eeaaed3bee84312428a3e94cd13295f2",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "author_name": "SpaceGiraffe.io",
+      "author_email": "andrew@spacegiraffe.io",
+      "github_username": "SpaceGiraffe-io",
+      "project_name": "ReqHubPython",
+      "project_slug": "reqhub",
+      "package_name": "reqhub",
+      "project_short_description": "ReqHub middleware for Python projects.",
+      "_template": "https://github.com/woltapp/wolt-python-package-cookiecutter"
+    }
+  },
+  "directory": null
+}
